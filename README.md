@@ -1,6 +1,6 @@
 ## Your Info:
-1. Matric Number
-1. Name
+1. Matric Number: 270607
+2. Name: Tan Yi Qing
 
 ## Instruction:
 
@@ -13,3 +13,4 @@
 4. Screenshot the result and upload to this repo too.
 
 ## Output/Result
+![tutorial Output](./image/Output.png)
