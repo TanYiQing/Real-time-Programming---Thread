@@ -19,6 +19,16 @@
       "comparison": "included",
       "timeout": 10,
       "points": 3
+    },
+    {
+      "name": "Test_Output",
+      "setup": "",
+      "run": "java -cp . MyFirstThread",
+      "input": "",
+      "output": "main\r\n1\r\nMy First ThreadThread-0\r\nMy First ThreadThread-1",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
     }
   ]
 }
