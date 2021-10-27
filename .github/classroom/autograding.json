@@ -28,7 +28,7 @@
       "output": "main\r\n1\r\nThread-0\r\nThread-1",
       "comparison": "included",
       "timeout": 10,
-      "points": 5
+      "points": 4
     }
   ]
 }
