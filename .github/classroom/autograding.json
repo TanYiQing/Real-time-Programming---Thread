@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "Test_Compile",
+      "setup": "",
+      "run": "javac MyFirstThread.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Test_Run",
+      "setup": "",
+      "run": "java -cp . MyFirstThread",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 3
+    },
+    {
+      "name": "Test_Output",
+      "setup": "",
+      "run": "java -cp . MyFirstThread",
+      "input": "",
+      "output": "main\r\n1\r\nThread-0\r\nThread-1",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    }
+  ]
+}
