@@ -25,7 +25,7 @@
       "setup": "",
       "run": "java -cp . MyFirstThread",
       "input": "",
-      "output": "main\r\n1\r\nMy First ThreadThread-0\r\nMy First ThreadThread-1",
+      "output": "main\r\n1\r\nThread-0\r\nThread-1",
       "comparison": "included",
       "timeout": 10,
       "points": 5
